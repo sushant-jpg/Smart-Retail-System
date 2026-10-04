@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 460">
+  <rect width="600" height="460" rx="28" fill="#ede8df"/>
+  <circle cx="106" cy="95" r="66" fill="#d8d0c1"/>
+  <ellipse cx="300" cy="395" rx="133" ry="18" fill="#b3a591" opacity=".4"/>
+  <path d="M207 121q93-36 186 0l-17 235q-76 26-152 0z" fill="#76513d"/>
+  <path d="M207 121q93-36 186 0l-5 51q-88 27-176 0z" fill="#4c372e"/>
+  <path d="M218 137q82-30 164 0" fill="none" stroke="#b58a65" stroke-width="5"/>
+  <path d="M250 251q35-57 69-3-27 47-56 15-15-17-13-12z" fill="#e3c18a"/>
+  <path d="M282 240q35-57 69-3-27 47-56 15-15-17-13-12z" fill="#c9975d"/>
+  <text x="300" y="202" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" letter-spacing="3" fill="#f0dec1">KTM ROASTERS</text>
+  <text x="300" y="310" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#f8ead4">HIMALAYAN</text>
+  <text x="300" y="338" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#f8ead4">ROAST · 250 G</text>
+</svg>

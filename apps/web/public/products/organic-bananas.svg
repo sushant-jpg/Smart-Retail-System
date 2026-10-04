@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 460">
+  <rect width="600" height="460" rx="28" fill="#edf0dc"/>
+  <circle cx="108" cy="102" r="67" fill="#dce5be"/>
+  <ellipse cx="300" cy="395" rx="144" ry="18" fill="#aeb88e" opacity=".4"/>
+  <path d="M198 296q67 59 183 14 34-13 45-34-19 92-113 107-92 15-142-53-13-18 27-34z" fill="#eacb4f" stroke="#a68d32" stroke-width="5"/>
+  <path d="M218 252q69 50 171 4 31-14 45-35-24 82-105 101-77 19-129-40-14-16 18-30z" fill="#f1d65f" stroke="#a68d32" stroke-width="5"/>
+  <path d="M251 207q63 39 143 0 31-15 44-36-21 69-84 87-65 19-116-29-14-13 13-22z" fill="#f6df72" stroke="#b29836" stroke-width="5"/>
+  <path d="M190 299l17-8M218 255l16-10M249 211l16-9" stroke="#5b6b36" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="351" cy="246" r="6" fill="#f9edaf"/><circle cx="307" cy="307" r="6" fill="#f9edaf"/><circle cx="377" cy="335" r="6" fill="#f9edaf"/>
+  <text x="300" y="144" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" letter-spacing="3" fill="#627443">VALLEY FRESH</text>
+  <text x="300" y="177" text-anchor="middle" font-family="Arial,sans-serif" font-size="21" font-weight="700" fill="#435532">ORGANIC</text>
+  <text x="300" y="363" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#435532">BANANAS</text>
+</svg>

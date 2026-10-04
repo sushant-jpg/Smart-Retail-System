@@ -1,0 +1,11 @@
+{
+  "/(platform)/[section]/page": "app/(platform)/[section]/page.js",
+  "/(platform)/dashboard/page": "app/(platform)/dashboard/page.js",
+  "/(platform)/inventory/page": "app/(platform)/inventory/page.js",
+  "/(platform)/pos/page": "app/(platform)/pos/page.js",
+  "/(platform)/products/[id]/page": "app/(platform)/products/[id]/page.js",
+  "/(platform)/products/page": "app/(platform)/products/page.js",
+  "/(platform)/profile/page": "app/(platform)/profile/page.js",
+  "/(platform)/scan-pay/page": "app/(platform)/scan-pay/page.js",
+  "/login/page": "app/login/page.js"
+}

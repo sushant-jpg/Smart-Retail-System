@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 460">
+  <rect width="600" height="460" rx="28" fill="#f3ead5"/>
+  <circle cx="470" cy="110" r="76" fill="#e9d8ad"/>
+  <ellipse cx="300" cy="395" rx="118" ry="18" fill="#c3a96b" opacity=".4"/>
+  <path d="M255 93h90v38h-90z" fill="#75523a"/>
+  <path d="M234 128q66-20 132 0l15 225q-81 36-162 0z" fill="#dcae45" stroke="#9b742d" stroke-width="5"/>
+  <path d="M248 164h104v123H248z" fill="#fff3cf"/>
+  <path d="M300 190c-18-30-49-3-2 42 47-45 16-72 2-42z" fill="#e3b64d"/>
+  <path d="M300 233v30" stroke="#6f8c4b" stroke-width="5"/>
+  <text x="300" y="155" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" letter-spacing="2" fill="#fff3cf">HIMALAYAN HARVEST</text>
+  <text x="300" y="280" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#654a2c">WILDFLOWER</text>
+  <text x="300" y="306" text-anchor="middle" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#654a2c">HONEY</text>
+  <text x="300" y="330" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" letter-spacing="2" fill="#80683f">PURE · 350 G</text>
+</svg>

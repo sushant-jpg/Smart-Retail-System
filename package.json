@@ -1,0 +1,23 @@
+{
+  "name": "smartretail",
+  "version": "0.1.0",
+  "private": true,
+  "workspaces": ["apps/web", "apps/api"],
+  "scripts": {
+    "dev": "concurrently -n WEB,API -c cyan,green \"npm run dev -w @smartretail/web\" \"npm run dev -w @smartretail/api\"",
+    "build": "npm run build -w @smartretail/api && npm run build -w @smartretail/web",
+    "typecheck": "npm run typecheck -w @smartretail/api && npm run typecheck -w @smartretail/web",
+    "test": "npm run test -w @smartretail/api && npm run test -w @smartretail/web",
+    "test:integration": "npm run test:integration -w @smartretail/api",
+    "test:e2e": "npm run test:e2e -w @smartretail/web",
+    "lint": "npm run lint -w @smartretail/web",
+    "seed": "npm run seed -w @smartretail/api"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  },
+  "engines": {
+    "node": ">=20.0.0",
+    "npm": ">=10.0.0"
+  }
+}

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 460">
+  <rect width="600" height="460" rx="28" fill="#eee6df"/>
+  <circle cx="112" cy="350" r="80" fill="#e2d2c6"/>
+  <ellipse cx="300" cy="394" rx="144" ry="18" fill="#b49a88" opacity=".38"/>
+  <path d="M201 86h198v284H201z" fill="#49302b" stroke="#33211e" stroke-width="6"/>
+  <path d="M218 104h164v248H218z" fill="#5d3b34" stroke="#98735f" stroke-width="2"/>
+  <path d="M218 104h164v52H218z" fill="#c78d56"/>
+  <path d="M235 207h50v48h-50zM293 207h50v48h-50zM235 264h50v48h-50zM293 264h50v48h-50z" fill="#795247" stroke="#ae8065" stroke-width="3"/>
+  <text x="300" y="140" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" letter-spacing="3" fill="#fff5e7">CACAO HOUSE</text>
+  <text x="300" y="188" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#f6e5d0">DARK</text>
+  <text x="300" y="337" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#f6e5d0">72% CACAO</text>
+</svg>

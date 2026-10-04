@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 460">
+  <rect width="600" height="460" rx="28" fill="#e8f0ec"/>
+  <circle cx="108" cy="104" r="54" fill="#d2e0d8"/>
+  <ellipse cx="300" cy="395" rx="145" ry="18" fill="#9eb3a7" opacity=".4"/>
+  <path d="M198 102q102 17 204 0l-20 263q-82 22-164 0z" fill="#fbfaf3" stroke="#b7c8bd" stroke-width="5"/>
+  <path d="M198 102q102 17 204 0l-4 50q-98 18-196 0z" fill="#244f3e"/>
+  <path d="M199 315q101 17 199 0l-4 50q-82 22-164 0z" fill="#6f927d"/>
+  <ellipse cx="300" cy="235" rx="70" ry="54" fill="#e8bd72"/>
+  <path d="M259 226q38-50 81 3-24 49-69 20-28-17-12-23z" fill="#f2d497"/>
+  <circle cx="276" cy="211" r="4" fill="#fff"/>
+  <circle cx="317" cy="239" r="4" fill="#fff"/>
+  <circle cx="293" cy="258" r="4" fill="#fff"/>
+  <text x="300" y="184" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" letter-spacing="3" fill="#315342">VALLEY CRUNCH</text>
+  <text x="300" y="321" text-anchor="middle" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#244f3e">SEA SALT</text>
+  <text x="300" y="346" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" letter-spacing="2" fill="#52685a">POTATO CRISPS</text>
+</svg>

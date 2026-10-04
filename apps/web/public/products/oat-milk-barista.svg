@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 460">
+  <rect width="600" height="460" rx="28" fill="#f1eadb"/>
+  <circle cx="470" cy="92" r="66" fill="#d9e2c9"/>
+  <ellipse cx="300" cy="394" rx="142" ry="20" fill="#c7bda8" opacity=".45"/>
+  <path d="M205 95h190l-15 275H220z" fill="#f9f6ed" stroke="#c5b99e" stroke-width="5"/>
+  <path d="M205 95l32-45h126l32 45z" fill="#6d8b62"/>
+  <path d="M237 50h126v34H237z" fill="#859d73"/>
+  <path d="M205 95h190v48H205z" fill="#7f9c6b"/>
+  <path d="M245 214c17-34 36-53 56-53 22 0 39 19 55 53-16-9-27-12-38-9 6 9 10 18 12 27-11-10-22-14-32-13-12 1-27 9-45 27 4-13 10-24 17-34-8-2-17-1-25 2z" fill="#7e9b69"/>
+  <text x="300" y="286" text-anchor="middle" font-family="Arial,sans-serif" font-size="26" font-weight="700" fill="#34483a">OATSIDE</text>
+  <text x="300" y="320" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" letter-spacing="3" fill="#66725d">BARISTA BLEND</text>
+  <text x="300" y="350" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#66725d">OAT DRINK · 1 L</text>
+</svg>

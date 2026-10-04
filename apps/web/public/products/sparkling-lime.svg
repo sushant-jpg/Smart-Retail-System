@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 460">
+  <rect width="600" height="460" rx="28" fill="#e6f0df"/>
+  <circle cx="444" cy="112" r="80" fill="#d4e7bb"/>
+  <ellipse cx="300" cy="395" rx="108" ry="18" fill="#9db58a" opacity=".4"/>
+  <path d="M262 87h76v31l22 26v215q0 18-18 18h-84q-18 0-18-18V144l22-26z" fill="#cbe68d" stroke="#7c9c4e" stroke-width="5"/>
+  <path d="M262 87h76v30h-76z" fill="#698841"/>
+  <path d="M240 204h120v110H240z" fill="#f7f7df"/>
+  <circle cx="300" cy="253" r="33" fill="#8fb84c"/>
+  <path d="M300 221v64M268 253h64M277 230l46 46M323 230l-46 46" stroke="#f4f5cf" stroke-width="4"/>
+  <text x="300" y="178" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" letter-spacing="2" fill="#59723b">SPRING NEPAL</text>
+  <text x="300" y="297" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#456338">SPARKLING</text>
+  <text x="300" y="338" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" letter-spacing="2" fill="#59723b">LIME · 330 ML</text>
+</svg>
